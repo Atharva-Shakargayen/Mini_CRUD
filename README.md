@@ -14,7 +14,7 @@ A minimal Node.js + Express + MongoDB CRUD app demonstrating basic REST API oper
 - Node.js
 - Express.js
 - MongoDB + Mongoose
-- Postman (for API testing)
+- Thunder Client - Extension on VS Code (for API testing)
 
 ## 🛠️ Installation
 
