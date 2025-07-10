@@ -19,6 +19,6 @@ A minimal Node.js + Express + MongoDB CRUD app demonstrating basic REST API oper
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/minicrud.git
+git clone https://github.com/atharva-shakargayen/minicrud.git
 cd minicrud
 npm install dotnet mongoose
